@@ -3,7 +3,7 @@ class Siswa {
     String kelas;
 }
 
-public class Main {
+public class soaldpk1 {
     public static void main(String[] args) {
         Siswa siswa1 = new Siswa();
         siswa1.nama = "Budi";
